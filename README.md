@@ -8,9 +8,6 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- [Python](https://www.python.org/) installed on your local machine.
-- [Selenium](https://selenium-python.readthedocs.io/) library installed (`pip install selenium`).
-- [WebDriver](https://selenium-python.readthedocs.io/installation.html#drivers) for your web browser (e.g., Chrome, Firefox) downloaded and installed.
 
 ## Project Architecture
 
