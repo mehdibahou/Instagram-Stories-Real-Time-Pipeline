@@ -51,3 +51,5 @@ The Flask server provides an API for stock predictions. It serves as an interfac
    ```bash
    git clone https://github.com/your-username/instagram-stories-pipeline.git
    cd instagram-stories-pipeline
+   docker-compose up -d
+
